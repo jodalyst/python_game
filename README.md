@@ -150,8 +150,6 @@ You can build on this game in pretty much infinite different ways.  Below I adde
 
 <a href="https://www.youtube.com/watch?v=vLYEkUcolOQ" target="_blank">Working Game</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vLYEkUcolOQ" frameborder="0" allowfullscreen></iframe>
-
 To complete the lab, add one additional feature to the game.  Some ideas include:
 
 * Gain a life every $n$ points scored
